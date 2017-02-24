@@ -13,7 +13,7 @@ SSH Port
 Complete URL to the hosted web application
 > http://ec2-35-161-2-214.us-west-2.compute.amazonaws.com/catalog 
 
-Summary of software you installed and configuration
+Summary of software installed and configured
 > - Apache
 > - Postgre
 > - SqlAlchemy
@@ -21,7 +21,7 @@ Summary of software you installed and configuration
 > - Postgre adapter for Python (psycopg2)
 > - Flask
 
-List of any third-party resources
+List of any third-party resources used in completing this project:
 
 > - [How To Deploy a Flask Application on an Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
 > - [Create postgres user and db](https://www.digitalocean.com/community/tutorials/how-to-create-remove-manage-tables-in-postgresql-on-a-cloud-server)
