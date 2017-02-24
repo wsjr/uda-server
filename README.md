@@ -7,13 +7,13 @@ Important information regarding the project:
 IP address:
 > 35.161.2.214
 
-SSH Port
+SSH Port:
 > 2200
 
-Complete URL to the hosted web application
+Complete URL to the hosted web application:
 > http://ec2-35-161-2-214.us-west-2.compute.amazonaws.com/catalog 
 
-Summary of software installed and configured
+Summary of software installed and configured:
 > - Apache
 > - Postgre
 > - SqlAlchemy
